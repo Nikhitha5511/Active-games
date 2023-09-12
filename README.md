@@ -124,3 +124,6 @@ background: Sets the background color of the pseudo-element to a light gray colo
 * font-weight: 25px: This property seems to be incorrect. font-weight should specify a numeric value (e.g., font-weight: 600; for bold). The px unit is not valid for font-weight.
 * color: #658EC6: Sets the text color to a shade of blue (#658EC6).
 * font-size: 20px: Sets the font size to 20 pixels for the text within elements with the .percentage class.
+
+  # Hosted Link
+  https://nikhitha5511.github.io/Active-games/
